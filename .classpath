@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Paper-API-1.12.2-ac69748-20181207-0309"/>
+	<classpathentry kind="output" path="out/production/PlayerNumber"/>
+</classpath>
