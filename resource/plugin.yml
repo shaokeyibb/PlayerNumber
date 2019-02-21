@@ -2,4 +2,4 @@ name: PlayerNumber
 main: cn.lingyuncraft.shaokeyibb.Main
 version: 0.5
 author: shaokeyibb
-depands: [ksapi]
+depand: [ksapi]
